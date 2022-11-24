@@ -24,6 +24,7 @@ Features:
 Issues/Limitaions:
 1. Limited amount of training data and testing data, only able to identify old fashion spam messages
 2. Limited features
+
 Future work (if possible):
 1. Find a more robust dataset to train the model to give a more modern result
 2. Support more exporting file types
