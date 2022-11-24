@@ -2,11 +2,15 @@
 A python-based input classifier for class assignment
 
 UI:
+
 tkinter - python standard library
+
 custom tkinter - a more nicer and user friendly version of tkinter that built upon tkinter - https://github.com/TomSchimansky/CustomTkinter
 
 Machine Learning:
+
 sklearn - python machine learning library - https://scikit-learn.org/stable/
+
 nltk - python natural language toolkit - https://www.nltk.org/
 
 
