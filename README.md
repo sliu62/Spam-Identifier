@@ -5,13 +5,13 @@ UI:
 
 tkinter - python standard library
 
-custom tkinter - a more nicer and user friendly version of tkinter that built upon tkinter - https://github.com/TomSchimansky/CustomTkinter
+[custom tkinter](https://github.com/TomSchimansky/CustomTkinter) - a more nicer and user friendly version of tkinter that built upon tkinter
 
 Machine Learning:
 
-sklearn - python machine learning library - https://scikit-learn.org/stable/
+[sklearn](https://scikit-learn.org/stable/) - python machine learning library
 
-nltk - python natural language toolkit - https://www.nltk.org/
+[nltk](https://www.nltk.org/) - python natural language toolkit
 
 
 Features:
