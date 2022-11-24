@@ -3,7 +3,7 @@ A python-based input classifier for class assignment
 
 UI:
 
-tkinter - python standard library
+[tkinter](https://docs.python.org/3/library/tkinter.html) - python standard library
 
 [custom tkinter](https://github.com/TomSchimansky/CustomTkinter) - a more nicer and user friendly version of tkinter that built upon tkinter
 
