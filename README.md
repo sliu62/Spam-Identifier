@@ -1,4 +1,4 @@
-# Spam-Identifier
+# [Spam-Identifier](https://github.com/Curseridden/Spam-Identifier)
 A python-based input classifier for class assignment
 
 UI:
