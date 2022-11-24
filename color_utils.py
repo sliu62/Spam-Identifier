@@ -1,0 +1,5 @@
+main_color = "#3483eb"
+nullify_color = "#aaafb5"
+good_status_color = "#42cc3b"
+bad_status_color = "#d61818"
+white = "#fcfcfc"
