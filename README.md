@@ -13,24 +13,24 @@ Machine Learning:
 
 [nltk](https://www.nltk.org/) - python natural language toolkit
 
-Installation and Configuration:
+**Installation and Configuration:**
 1. Check the above libraries (except tkinter) and install them through pip, anaconda, or any other python platforms you are using
 2. Download the code as a zip, unzip to any location you like
 3. On terminal/command prompt, change to the directory to where you saved your unzipped files, then run: **python main.py**
 
 
-Features:
+**Features:**
 1. Simple Graphical User Interface (GUI) that is very straight forward
 2. Supporting switching between identifying email and text message input
 3. Supporting export evaluation to a .csv file for future evaluation
 4. Light weight application that is good for offline
 5. Automatically switch between light mode and dark mode based on system setting (featured by custom tkinter)
 
-Issues/Limitaions:
+**Issues/Limitaions:**
 1. Limited amount of training data and testing data, only able to identify old fashion spam messages
 2. Limited features
 
-Future work (if possible):
+**Future work (if possible):**
 1. Find a more robust dataset to train the model to give a more modern result
 2. Support more exporting file types
 3. Cache the configuration and export it to a .cfg file so user will no longer need to re-configure the app everytime they start the app
