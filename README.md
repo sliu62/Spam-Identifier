@@ -15,7 +15,7 @@ Machine Learning:
 
 Installation and Configuration:
 1. Check the above libraries (except tkinter) and install them through pip, anaconda, or any other python platforms you are using
-2. in terminal/command prompt, run: **python main.py**
+2. On terminal/command prompt, run: **python main.py**
 
 
 Features:
