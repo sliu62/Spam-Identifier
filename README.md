@@ -33,7 +33,7 @@ Machine Learning:
 **Future work (if possible):**
 1. Find a more robust dataset to train the model to give a more modern result
 2. Support more exporting file types
-3. Cache the configuration and export it to a .cfg file so user will no longer need to re-configure the app everytime they start the app
+3. Cache the configuration and export it to a .cfg file so user will no longer need to re-configure the app every time they start the app
 4. Support more font types (and maybe font sizes) for better visualization for different groups of people
 5. Manually switch between light mode and dark mode of the application
 6. Export the program into a stand alone software for different platform, no more libraries installation will be required
