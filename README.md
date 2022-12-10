@@ -30,7 +30,7 @@ A python-based input classifier for class assignment that uses random forest alg
 1. Limited amount of training data and testing data, only able to identify old fashion spam messages
 2. Limited features
 
-**Future work (if possible):**
+**Future works (if possible):**
 1. Find a more robust dataset to train the model to give a more modern result
 2. Support more exporting file types
 3. Cache the configuration and export it to a .cfg file so user will no longer need to re-configure the app every time they start the app
