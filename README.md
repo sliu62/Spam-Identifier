@@ -1,5 +1,5 @@
 # [Spam-Identifier](https://github.com/Curseridden/Spam-Identifier)
-A python-based input classifier for class assignment
+A python-based input classifier for class assignment that uses random forest algorithm to evaluate its input
 
 UI:
 
@@ -40,3 +40,6 @@ Machine Learning:
 7. Support internal model training to help improve the software locally
 8. Support opening up customized training model based on what the user expected
 
+**Resources**
+[Text Message Training Python Notebook](https://colab.research.google.com/drive/1o8qf9L3Ppcf1rnJpIoAF034VZPjIa3sc)
+[Email Training Python Notebook](https://colab.research.google.com/drive/1Mbrbx0IJ0whav2u7OrcBbCOIo5RrCS4e)
