@@ -12,7 +12,7 @@ A python-based input classifier for class assignment that uses random forest alg
 
 **Machine Learning**:
 
-[Pickle](https://docs.python.org/3/library/pickle.html) - python object serializing and de-serializing tool (use to save and load the machine learning model)
+[pickle](https://docs.python.org/3/library/pickle.html) - python object serializing and de-serializing tool (use to save and load the machine learning model)
 
 [sklearn](https://scikit-learn.org/stable/) - python machine learning library
 
