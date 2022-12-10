@@ -1,13 +1,13 @@
 # [Spam-Identifier](https://github.com/Curseridden/Spam-Identifier)
 A python-based input classifier for class assignment that uses random forest algorithm to evaluate its input
 
-UI:
+**UI**:
 
 [tkinter](https://docs.python.org/3/library/tkinter.html) - python standard library
 
 [custom tkinter](https://github.com/TomSchimansky/CustomTkinter) - a more nicer and user friendly version of tkinter that built upon tkinter
 
-Machine Learning:
+**Machine Learning**:
 
 [sklearn](https://scikit-learn.org/stable/) - python machine learning library
 
@@ -40,6 +40,8 @@ Machine Learning:
 7. Support internal model training to help improve the software locally
 8. Support opening up customized training model based on what the user expected
 
-**Resources**
+**Resources**:
+
 [Text Message Training Python Notebook](https://colab.research.google.com/drive/1o8qf9L3Ppcf1rnJpIoAF034VZPjIa3sc)
+
 [Email Training Python Notebook](https://colab.research.google.com/drive/1Mbrbx0IJ0whav2u7OrcBbCOIo5RrCS4e)
