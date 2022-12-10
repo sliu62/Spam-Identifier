@@ -12,12 +12,14 @@ A python-based input classifier for class assignment that uses random forest alg
 
 **Machine Learning**:
 
+[Pickle](https://docs.python.org/3/library/pickle.html) - python object serializing and de-serializing tool (use to save and load the machine learning model)
+
 [sklearn](https://scikit-learn.org/stable/) - python machine learning library
 
 [nltk](https://www.nltk.org/) - python natural language toolkit
 
 **Installation and Configuration:**
-1. Check the above libraries (except tkinter) and install them through pip, anaconda, or any other python platforms you are using
+1. Check the above libraries (except tkinter and pickle) and install them through pip, anaconda, or any other python platforms you are using
 2. Download the code as a zip, unzip to any location you like
 3. On terminal/command prompt, change to the directory to where you saved your unzipped files, then run: **python main.py**
 
