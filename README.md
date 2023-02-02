@@ -4,8 +4,10 @@ A python-based input classifier for class assignment that uses random forest alg
 **Machine Learning Algorithms were done by:** [@leonardgarcia90](https://github.com/leonardgarcia90)
 
 **Project Documents by:**
--[@Karen "Benny" Berba](https://github.com/kberba)
--[@syam-jason](https://github.com/syam-jason)
+
+- [@Karen "Benny" Berba](https://github.com/kberba)
+
+- [@syam-jason](https://github.com/syam-jason)
 
 **UI**:
 
