@@ -13,6 +13,8 @@ A python-based input classifier for class assignment that uses random forest alg
 
 - [@syam-jason](https://github.com/syam-jason)
 
+- [@SemerdjianMary](https://github.com/SemerdjianMary)
+
 **UI**:
 
 [tkinter](https://docs.python.org/3/library/tkinter.html) - python standard library
