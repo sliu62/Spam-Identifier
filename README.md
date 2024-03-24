@@ -1,7 +1,7 @@
 # [Spam-Identifier](https://github.com/Curseridden/Spam-Identifier)
 A python-based input classifier for class assignment that uses random forest algorithm to evaluate its input
 
-**User Interface by:** [@Curseridden](https://github.com/Curseridden)
+**User Interface by:** [@sliu62](https://github.com/sliu62)
 
 **Machine Learning Algorithms by:** [@leonardgarcia90](https://github.com/leonardgarcia90)
 
